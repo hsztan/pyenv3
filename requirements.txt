@@ -1,0 +1,12 @@
+antlr4-python3-runtime==4.9.2
+certifi==2020.12.5
+chardet==3.0.4
+facebook2==2.2.1
+greenlet==1.0.0
+helper==2.5.0
+idna==2.10
+PyYAML==5.4.1
+radb==3.0.3
+requests==2.24.0
+SQLAlchemy==1.4.9
+urllib3==1.25.11
